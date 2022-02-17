@@ -1,3 +1,4 @@
+import os
 import sys
 
 #print('Hello')
@@ -10,6 +11,10 @@ import sys
 x = len(sys.argv)
 
 if x > 1:
-    print('Arguments entered' + sys.argv[:1])
+    if sys.argv[1] == '--help':
+        print("That is help message for this script")
+    print('Arguments entered' + str(sys.argv[1:]))
 else:
     print('Arguments no provided')
+
+os.system("ls -l")
