@@ -1,0 +1,11 @@
+#https://programmera.ru/uroki-po-python/
+#https://www.upgrad.com/blog/python-projects-ideas-topics-beginners/
+#https://www.w3resource.com/python-exercises/
+#https://pynative.com/python-input-and-output-exercise/
+#https://pymentor.by/#introduction
+#https://stepik.org/course/67/promo#toc
+#https://www.practicepython.org/exercises/
+#https://pyanswer.ru/category/training/
+#https://devpractice.ru/files/books/python/Python.Lessons.pdf
+#https://letpy.com/app/#/lessons/400.200/q
+#https://pyneng.readthedocs.io/ru/latest/book/04_data_structures/dicts.html
